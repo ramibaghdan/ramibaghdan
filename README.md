@@ -10,7 +10,7 @@ The thread through most of my work is the same: taking scattered, inconsistent d
 
 **[ask-the-docs](https://github.com/ramibaghdan/ask-the-docs)**: a retrieval-augmented question answering system over technical documentation, with an evaluation harness that measures retrieval quality and answer groundedness and flags low-confidence answers for human review. The point is not just answering questions, but measuring whether the answers can be trusted. Python, OpenAI API.
 
-**[biolink-source-mapping](https://github.com/ramibaghdan/biolink-source-mapping)**: a pipeline that ingests two public biomedical sources, reconciles their identifiers, and maps their entities and relationships onto the Biolink knowledge-graph schema, with the non-trivial semantic-mapping decisions written up. Python, deterministic, public data.
+**[biolink-source-mapping](https://github.com/ramibaghdan/biolink-source-mapping)**: a pipeline that ingests two public biomedical sources, reconciles their identifiers, and maps their entities and relationships onto the Biolink knowledge-graph schema.
 
 **[genomics-variant-calling](https://github.com/ramibaghdan/genomics-variant-calling)**: a reproducible NGS variant-calling pipeline (align, sort, call) implemented in bash, WDL, and Nextflow, with containerized tools and validation on simulated reads.
 
@@ -20,6 +20,6 @@ The thread through most of my work is the same: taking scattered, inconsistent d
 
 Python, SQL, BigQuery, knowledge graphs and ontologies (Biolink), NGS workflows (BWA, GATK, samtools), scanpy, networkx, and AI-assisted development.
 
-### Elsewhere
+### Other links
 
 LinkedIn: [linkedin.com/in/ramibaghdan](https://linkedin.com/in/ramibaghdan)
