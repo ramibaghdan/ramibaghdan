@@ -4,7 +4,7 @@ I work where biomedical data, product, and AI meet: integrating and modeling dat
 
 For 4.5 years at BenchSci I worked on the third-party data behind a biomedical knowledge graph, deciding which sources to bring in, doing the integration, normalization, and QA, mapping data onto shared schemas and ontologies, and working with engineering to ship it for pharmaceutical R&D teams. My background is in bioinformatics, so I can get into the science directly.
 
-The thread through most of my work is the same: taking scattered, inconsistent data and turning it into something structured, usable, and trustworthy, and being honest about where AI helps and where it still needs a person in the loop.
+A common theme to my work is taking scattered, inconsistent data and turning it into something structured, usable, and trustworthy, and being honest about where AI helps and where it still needs a person in the loop.
 
 ### Selected projects
 
